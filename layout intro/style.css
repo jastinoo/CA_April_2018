@@ -1,0 +1,33 @@
+.span{
+
+    font-size: 26px;
+}
+
+.square{
+    background-color: yellow;
+    padding: 20px;
+}
+
+.square1{
+
+    background-color: red;
+    padding: 30px;
+    border:15px black solid;
+    margin: 25px;
+}
+
+.square2{
+
+    background-color:  lightblue;
+    padding: 20px;
+    width: 100px;
+}
+
+
+.square3{
+    background-color: gray;
+    margin: 0px auto;
+    height: 200px;
+    width:  960px;
+
+}

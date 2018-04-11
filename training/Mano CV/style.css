@@ -1,0 +1,77 @@
+body{
+    background-color: beige;
+}
+
+h1 {
+    text-align: center;
+}
+h4{
+    word-spacing: 200px;
+
+}
+
+h3{
+    -moz-text-size-adjust: 40px;
+}
+
+p{
+    text-align: center;
+    -moz-text-size-adjust: 300%;
+    text-decoration-style: solid;
+
+
+}
+
+
+.table td {
+        border:5px solid#000;
+        border-collapse: collapse;
+        border-style: solid dotted;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-right: 150px;
+        margin-left: 80px;
+
+
+}
+
+div {
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-right: 150px;
+        margin-left: 80px;
+}
+
+.kalbu {
+    width: 100%;
+    border-collapse: collapse;
+ 
+}
+
+
+.form-line{
+    padding: 5px 15px;
+}
+
+.txt-field{
+    padding: 5px 10px;
+
+}
+
+
+text-field:focus{
+background: rgb(219, 230, 199);
+border: 2px yellowgreen;
+width: 100px;
+-webkit-transition: width .35s ease-in-out;
+transition: width .35s ease-in-out;
+}
+input[type=text]:focus {
+    width: 300px;
+    background-color:chartreuse;
+  }
+
+  #messagge{
+    width: 55%;
+
+}

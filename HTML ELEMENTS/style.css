@@ -1,0 +1,40 @@
+.greenText {
+    color:green;
+
+}
+.orangeText {
+color:orange;
+}
+
+.redText {
+    color:rgb(0, 225, 255);
+
+}
+
+
+.firstParagraph{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+
+.secondParagraph {
+font-size: 31px;
+}
+
+/* cia yra css  komentaras */
+
+.photo{
+
+    width: 500px;
+    height: 500px;
+}
+
+.table, .table td{
+    border:1px solid#000;
+    border-collapse: collapse;
+    background: darkkhaki;
+}
+p{ 
+    background-color: fuchsia
+}

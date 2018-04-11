@@ -1,0 +1,61 @@
+.span{
+    font-size: 23px;
+}
+
+
+
+#header{
+    background-color:yellowgreen;
+    height:50px;
+    
+
+}
+
+#main{
+
+    background-color:violet;
+    width: 960px;
+    min-height: 100px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+#foot{
+    background-color: tomato;
+    height: 100px;
+    
+}
+
+#vytis{
+   
+    width: 100%;
+    margin: 0px 50px 50px 50px
+}
+
+
+ 
+
+#header {
+    min-height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    background-color: black;
+    margin: 0%;
+    padding:0%;
+}
+.main_container{
+    width: 400px;
+    height: 250px;
+
+}
+#naujienos{
+margin: 25px;
+width: 50px;
+color: aliceblue; 
+}

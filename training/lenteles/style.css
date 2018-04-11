@@ -1,0 +1,14 @@
+.table{
+    border:20px black;
+    border-collapse: collapse;
+    }
+
+    .table, .table td, .numeris2 td, .numeris2{
+        border:1px solid #000;
+        border-collapse: collapse;
+        padding: 10px;
+        background-color: bisque;
+        margin: 30px;
+    }
+
+    

@@ -1,0 +1,6 @@
+.table, .table td{
+    border:2px solid#000;
+    border-collapse:collapse;
+    background: rgb(219, 233, 241);
+}
+

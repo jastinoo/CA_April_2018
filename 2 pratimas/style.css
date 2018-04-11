@@ -1,0 +1,35 @@
+.bodis{
+    background-color:rgb(73, 10, 133);
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+    background-color:#ededed;
+  }
+  
+  .article {
+    background-color: red;
+    width: 260px;
+    margin: 10px;
+    padding: 20px;
+  }
+  .pavardes p{
+      margin:0px;
+      
+
+  }
+
+
+.article:hover{
+    border-color: white;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    margin-top:-3px;
+}
+
+.text-box{
+    width: 100%;
+    margin:20px 0 0 0;
+
+}
