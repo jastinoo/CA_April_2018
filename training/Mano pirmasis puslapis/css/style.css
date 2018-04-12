@@ -1,0 +1,25 @@
+body{
+    background: url("../img/Flag-map_of_Lithuania.svg.png");
+}
+
+
+.apie {
+    font-size: 50px;
+    font-style: italic;
+}
+
+.apl {
+    font-size: 50px;
+    font-style: italic;
+}
+
+.kon {
+    font-size: 50px;
+    font-style: italic;
+}
+
+
+#map {
+    height: 400px;
+    width: 100%;
+   }

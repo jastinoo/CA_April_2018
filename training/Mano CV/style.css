@@ -75,3 +75,12 @@ input[type=text]:focus {
     width: 55%;
 
 }
+
+.laiskelis{
+    padding:400px;
+    font-style:italic;
+    font-size:150%;
+}
+.img{
+width: auto;
+}
